@@ -7,15 +7,15 @@ On the Google Cloud console title bar, in the Search field, type cloud composer,
 
 On the Environments page, for Create environment, select Composer 3.
 
-For Name, type cepf-dagify-migration-lab.
+For Name, type ```cepf-dagify-migration-lab```.
 
-For Location, select us-east4.
+For Location, select ```us-east4```.
 
 Scroll to the bottom and click Show Advanced configuration.
 
 For Environment bucket, select Custom bucket.
 
-For Bucket name, click Browse, select qwiklabs-gcp-01-a52d1a55ade6-dagify-bucket, and then click Select.
+For Bucket name, click Browse, select ```qwiklabs-gcp-01-a52d1a55ade6-dagify-bucket```, and then click Select.
 
 Leave all other fields as default.
 
